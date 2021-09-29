@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @astukov
-- 👀 I’m interested in C# development outside a Windows box
+- 👀 I’m interested in C# development inside and outside a Windows box, hardware, networking and technology in general.
 - 🌱 I’m always learning 
 
 <!---
